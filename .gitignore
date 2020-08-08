@@ -1,1 +1,8 @@
 /.metadata/
+Servers
+**/target/**
+Bank-Management/.metadata/.plugins
+Bank-Management/.metadata
+Bank-Management/target
+*.classpath
+Bank-Management/.settings
